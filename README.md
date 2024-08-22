@@ -4,11 +4,11 @@
 Dataset Link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?resource=download
 
 Performed the below steps to complete the project:
-Data collection
-Data pre-processing
-Feature selection
-Feature Engineering
-Model building and evaluation
+Data collection,
+Data pre-processing,
+Feature selection,
+Feature Engineering,
+Model building and evaluation and 
 Back-end development with Flask Framework
 
  The dataset is also trained using algorithms :
